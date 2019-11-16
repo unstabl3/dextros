@@ -15,7 +15,7 @@ To know more about how to setup a cluster read this,
 # Still have a problem?
 
 Connect with me here
-https://twitter.com/chaskar_shubham
+[https://twitter.com/chaskar_shubham](url)
 
 
 Now I would recommend to update your cluster and install python3 if it is not installed.
