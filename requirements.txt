@@ -1,7 +1,3 @@
-textwrap
-hashlib
-itertools
-platform
 mpi4py
 passlib
 six
